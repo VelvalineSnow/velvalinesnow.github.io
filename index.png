@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Benjamin J. Williams</title>
+        <style>
+            html,body{margin:0;padding:0;}
+            body{width:90%;margin-right:auto;margin-left:auto;text-align:center;}
+            h1{font-family:'Arial';}
+            p{font-family:'Arial';font-size:24pt;margin-bottom:0px;}
+            span{font-family:'Arial';font-size:24pt;}
+            span.notice{font-family:'Arial';font-size:12pt;}
+            a{text-decoration:none;}
+        </stlye>
+    </head>
+    <body>
+        <h1>Benjamin J. Williams</h1>
+        <hr />
+        <p>Use my public key</p><br />
+        <span class="notice">QRX: Use <a href="https://scan.me/">Scan.me</a> to scan!</span><br />
+        <img src="pubkeyqrx.png" /><br />
+        <span class="plain">Or view the <a href="pubkey.txt">plain-text</a> version!</span>
+    </body>
+</html>
